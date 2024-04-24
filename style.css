@@ -19,7 +19,7 @@ footer{
 }
 main{
     padding: 10px;
-    background-color: antiquewhite  ;
+    background-color: rgb(216, 11, 11)  ;
     font-family: "Indie Flower";
 
 }
@@ -40,7 +40,7 @@ main{
 }
 
 .post{
-    background-color: aliceblue ;
+    background-color: rgb(12, 126, 226) ;
     padding: 20px;
     border-radius: 10px;
     margin-bottom: 20px;
@@ -100,7 +100,7 @@ main{
     text-transform: uppercase;
     height: 36px;
     box-sizing: border-box;
-    color: white;
+    color: rgb(181, 13, 233);
 }
 #menu1 ul li ul{
     position: absolute;
@@ -124,8 +124,8 @@ main{
     padding: 7px 25px;
     width: 100%;
     box-sizing: border-box;
-    border-top: 1px solid #ffffff;
-    color: white;
+    border-top: 1px solid #e9830e;
+    color: rgb(21, 241, 175);
     
 }
 h3{
