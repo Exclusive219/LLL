@@ -24,19 +24,8 @@ main{
 
 }
 
-.slider div {
+.sliderimg {
     height: 400px;
-    background-size: initial;
-    background-position: center center;
-    width: 1920px;
-}
-
-.slider1{
-    background-image: url(https://coinnet.ru/wp-content/uploads/2019/02/blokchain2.jpg);
-}
-
-.slider2{
-    background-image: url(https://finobzor.ru/uploads/posts/2017-07/org_zabi234.jpg);
 }
 
 .post{
