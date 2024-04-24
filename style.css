@@ -24,9 +24,18 @@ main{
 
 }
 
-.sliderimg{
-    width: 100%;
-    height: 300px;
+.slider div {
+    height: 400px;
+    background-size: initial;
+    background-position: center center;
+}
+
+.slider div:first-child {
+    background-image: url(https://klike.net/uploads/posts/2022-09/1662526350_s-45.jpg);
+}
+
+.slider div:last-child {
+    background-image: url(https://klike.net/uploads/posts/2022-09/1662526261_s-5.jpg);
 }
 
 .post{
