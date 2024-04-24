@@ -31,11 +31,11 @@ main{
     width: 1920px;
 }
 
-.slider div:first-child {
+.slider1{
     background-image: url(https://klike.net/uploads/posts/2022-09/1662526350_s-45.jpg);
 }
 
-.slider div:last-child {
+.slider2{
     background-image: url(https://klike.net/uploads/posts/2022-09/1662526261_s-5.jpg);
 }
 
