@@ -28,6 +28,7 @@ main{
     height: 400px;
     background-size: initial;
     background-position: center center;
+    width: 1920px;
 }
 
 .slider div:first-child {
